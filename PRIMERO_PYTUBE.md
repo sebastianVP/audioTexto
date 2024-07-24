@@ -23,3 +23,8 @@ https://colab.research.google.com/drive/1ZOOxoPQsUDXlixW4-yOR8A5cCYx2VCw1?usp=sh
 2. Este paso es el que hemos probado y verificado. Para esto se requiere descargar un repositorio, ojo en esta instalacion vamos a trabajar con un repositorio github y un cuaderno de colab, para esto:
 
 https://colab.research.google.com/drive/1vjjBWtfy_1GnPUhUFpF4zTXQts06DksU#scrollTo=X5GQ3oUOOX_u
+
+3. En el 3er cuaderno tenemos las conclusiones de uso, para una solucion completa se recomienda la instalacion del repositorio y la modificacion del cipher.py y las lineas del innertube.
+
+https://colab.research.google.com/drive/1NCjVJYtplK6366XeHsCpaoOtoCgTkSJu?usp=sharing
+
