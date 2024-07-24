@@ -18,5 +18,7 @@ _default_clients[ "ANDROID_MUSIC"] = _default_clients[ "ANDROID_CREATOR" ]
 ```
 Copiaremos el link de del colab para tener un registro de pruebas.
 
+https://colab.research.google.com/drive/1ZOOxoPQsUDXlixW4-yOR8A5cCYx2VCw1?usp=sharing
+
 2. Este paso es el que hemos probado y verificado. Para esto se requiere descargar un repositorio, ojo en esta instalacion vamos a trabajar con un repositorio github y tambien con un entorno virtual, para esto:
 * 
